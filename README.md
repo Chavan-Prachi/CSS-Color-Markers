@@ -19,15 +19,13 @@ Download or clone this repo, and open `index.html` in your browser to see the ma
 
 ## 📁 Folder Structure
 
-Camper-Cafe-Menu/
+css-color-markers/
 
-├── index.html
+├── docs/
 
-├── styles.css
+│ ├── index.html
 
-├── assets/
-
-│ └── images/
+│ └── style.css
 
 └── README.md
 
