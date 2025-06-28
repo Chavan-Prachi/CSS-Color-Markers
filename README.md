@@ -19,7 +19,7 @@ Download or clone this repo, and open `index.html` in your browser to see the ma
 
 ## 📁 Folder Structure
 
-css-color-markers/
+CSS-Color-Markers/
 
 ├── docs/
 
